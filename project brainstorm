@@ -4,8 +4,11 @@ GOAL: a workable standard for students
 Necessary components:
 - accounts
   - json
+  - score
 - set lists
 - drawing/canvas 
+- hints (sentence/phrase)
+- sound to replay word
 
 Current mats:
 - js
