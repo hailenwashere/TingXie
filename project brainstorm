@@ -5,10 +5,16 @@ Necessary components:
 - accounts
   - json
   - score
-- set lists
 - drawing/canvas 
-- hints (sentence/phrase)
 - sound to replay word
+
+brute:
+- hints (sentence/phrase)
+- set lists
+
+workflow:
+1. code things on glitch
+2. copy paste over to github
 
 Current mats:
 - js
